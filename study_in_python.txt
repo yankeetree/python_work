@@ -1,0 +1,3 @@
+in python you can : study 1
+in python you can : study 2
+in python you can : study 3
